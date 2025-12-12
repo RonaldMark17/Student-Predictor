@@ -1,4 +1,4 @@
-# 🚀 Student Performance Prediction System (PHP + ML)
+# Student Performance Prediction System (PHP + ML)
 
 This project is a PHP-based web application developed as the Final Requirement for **ITEP 308 - System Integration and Architecture I**. It demonstrates system integration by leveraging **Composer** to include a Machine Learning library (`php-ai/php-ml`) for student performance prediction.
 
