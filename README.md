@@ -6,8 +6,6 @@ The system predicts three critical outcomes: **Pass/Fail status**, **Dropout Ris
 
 ## 🔗 Project & Submission Links
 
-**IMPORTANT:** These links fulfill the final requirement submission criteria. Please ensure they are updated before submission.
-
 * **Deployed System Link:** [https://studentpredict.ct.ws/index.php]
 * **Video Presentation Link:** [https://youtu.be/giztcvOObw0?si=_gzsnoVcutnsd9oH]
 * **Canva/PowerPoint Link:** [https://www.canva.com/design/DAG6-27oEJo/Sphmr0wmNGu38KjOvfA0cw/edit?utm_content=DAG6-27oEJo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
